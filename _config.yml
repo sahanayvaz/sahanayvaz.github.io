@@ -2,3 +2,5 @@ title: sahanayvaz.github.io
 author:
   name: Sahan Ayvaz
 description: "My personal website and blog, where I share projects, research, and ideas."
+
+remote_theme: jekyll/minima
