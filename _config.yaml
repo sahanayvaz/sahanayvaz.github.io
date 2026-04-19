@@ -1,3 +1,1 @@
 theme: primer
-minima:
-  skin: auto   # respects the user's OS preference automatically
