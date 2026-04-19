@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Sahan Ayvaz
 ---
 
 # Hello world!
